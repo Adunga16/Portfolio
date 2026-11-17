@@ -1,0 +1,5 @@
+{
+  "meatng": {"image": "/assets/uiux/meatng.svg", "source": "Local MeatNG brand artwork in Documents/wordpress/MeatNG.png", "kind": "Brand cover"},
+  "goalpaddy": {"image": "/assets/uiux/goalpaddy.png", "source": "https://www.goalpaddy.com/goalpaddy-og-v2.png", "kind": "Product website social cover"},
+  "bpayex": {"image": "/assets/uiux/bpayex.svg", "source": "https://bpayex.com/assets/images/", "kind": "Brand cover using official logo and currency illustration"}
+}

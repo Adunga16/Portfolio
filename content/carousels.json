@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "meatng-family",
+    "title": "MeatNG: Everyday family problems",
+    "description": "A social carousel designed to carry the story from the opening slide to the final message.",
+    "direction": [],
+    "previewCount": 1,
+    "artworks": [
+      {
+        "name": "Slide 1",
+        "image": "/assets/carousels/meatng-family-1.jpg",
+        "alt": "MeatNG: Everyday family problems, slide 1"
+      },
+      {
+        "name": "Slide 2",
+        "image": "/assets/carousels/meatng-family-2.jpg",
+        "alt": "MeatNG: Everyday family problems, slide 2"
+      },
+      {
+        "name": "Slide 3",
+        "image": "/assets/carousels/meatng-family-3.jpg",
+        "alt": "MeatNG: Everyday family problems, slide 3"
+      },
+      {
+        "name": "Slide 4",
+        "image": "/assets/carousels/meatng-family-4.jpg",
+        "alt": "MeatNG: Everyday family problems, slide 4"
+      },
+      {
+        "name": "Slide 5",
+        "image": "/assets/carousels/meatng-family-5.jpg",
+        "alt": "MeatNG: Everyday family problems, slide 5"
+      }
+    ],
+    "shot": "27628613"
+  },
+  {
+    "slug": "mercy-agbeti-wrapped",
+    "title": "Mercy Agbeti: 2025 Wrapped",
+    "description": "A social carousel designed to carry the story from the opening slide to the final message.",
+    "direction": [],
+    "previewCount": 1,
+    "artworks": [
+      {
+        "name": "Slide 1",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-1.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 1"
+      },
+      {
+        "name": "Slide 2",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-2.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 2"
+      },
+      {
+        "name": "Slide 3",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-3.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 3"
+      },
+      {
+        "name": "Slide 4",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-4.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 4"
+      },
+      {
+        "name": "Slide 5",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-5.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 5"
+      },
+      {
+        "name": "Slide 6",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-6.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 6"
+      },
+      {
+        "name": "Slide 7",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-7.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 7"
+      },
+      {
+        "name": "Slide 8",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-8.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 8"
+      },
+      {
+        "name": "Slide 9",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-9.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 9"
+      },
+      {
+        "name": "Slide 10",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-10.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 10"
+      },
+      {
+        "name": "Slide 11",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-11.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 11"
+      },
+      {
+        "name": "Slide 12",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-12.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 12"
+      },
+      {
+        "name": "Slide 13",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-13.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 13"
+      },
+      {
+        "name": "Slide 14",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-14.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 14"
+      },
+      {
+        "name": "Slide 15",
+        "image": "/assets/carousels/mercy-agbeti-wrapped-15.jpg",
+        "alt": "Mercy Agbeti: 2025 Wrapped, slide 15"
+      }
+    ],
+    "shot": "26937949"
+  }
+]

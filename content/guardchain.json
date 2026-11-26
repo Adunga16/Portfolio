@@ -6,5 +6,91 @@
   "organization": "Personal project",
   "contribution": "I designed GuardChain as a personal product project. The case study presents my UI/UX work on a cryptocurrency wallet.",
   "image": "/assets/uiux/web3-wallet.png",
-  "caseStudyUrl": "https://www.behance.net/gallery/216411521/Web3-Design-A-Case-Study-of-a-Cryptocurrency-Wallet"
+  "caseStudyUrl": "https://www.behance.net/gallery/216411521/Web3-Design-A-Case-Study-of-a-Cryptocurrency-Wallet",
+  "panels": [
+    {
+      "image": "/assets/uiux/guardchain/panel-1.jpg",
+      "alt": "GuardChain: Cover and wallet overview",
+      "width": 1440,
+      "height": 1024
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-2.jpg",
+      "alt": "GuardChain: The product, my role and responsibilities",
+      "width": 1440,
+      "height": 1024
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-3.jpg",
+      "alt": "GuardChain: Problem statement and project goals",
+      "width": 1440,
+      "height": 1179
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-4.jpg",
+      "alt": "GuardChain: Design process",
+      "width": 1440,
+      "height": 1548
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-7.jpg",
+      "alt": "GuardChain: User personas",
+      "width": 1440,
+      "height": 3377
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-8.jpg",
+      "alt": "GuardChain: Competitor analysis",
+      "width": 1440,
+      "height": 2094
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-8-1.jpg",
+      "alt": "GuardChain: User flow",
+      "width": 1440,
+      "height": 1328
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-9.jpg",
+      "alt": "GuardChain: Low fidelity wireframes",
+      "width": 1440,
+      "height": 3891
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-10.jpg",
+      "alt": "GuardChain: Final interface designs",
+      "width": 1440,
+      "height": 3995
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-11.jpg",
+      "alt": "GuardChain: Additional wallet screens",
+      "width": 1440,
+      "height": 4450
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-12.jpg",
+      "alt": "GuardChain: Typography and colour palette",
+      "width": 1440,
+      "height": 2245
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-13.jpg",
+      "alt": "GuardChain: Prototype connections",
+      "width": 1440,
+      "height": 3560
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-15.jpg",
+      "alt": "GuardChain: Wallet learning screen mockup",
+      "width": 1440,
+      "height": 1146
+    },
+    {
+      "image": "/assets/uiux/guardchain/panel-14.jpg",
+      "alt": "GuardChain: Thank you for viewing",
+      "width": 1440,
+      "height": 699
+    }
+  ]
 }

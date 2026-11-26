@@ -75,3 +75,6 @@
 
 /* Keep product covers fully visible at every width. */
 .uiux .project-visual.has-artwork{min-height:0;aspect-ratio:3/2;background:#0c1520}.uiux .project-artwork{object-fit:contain;transform:none}.uiux .project-visual.has-artwork .visual-index,.uiux .project-visual.has-artwork .visual-mark{display:none}.uiux .related-card img{object-fit:contain;background:#0c1520}
+
+/* Original GuardChain case study panels, at their full proportions. */
+.case-study-panels{width:min(100%,1440px);margin-inline:auto;background:#141414}.case-study-panels>img{display:block;width:100%;height:auto;margin:0}.full-visual-study .case-hero{padding-bottom:3rem}

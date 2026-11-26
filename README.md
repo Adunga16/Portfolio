@@ -28,3 +28,7 @@ This is the published build, not the original Figma TypeScript source. Figma doe
 Edit the design explanation and gallery entries in `content/afriscale.json`, then run `python3 scripts/update-content.py` and refresh the browser. The 13 supplied artworks are served from `dist/assets/afriscale/` as optimized JPEGs, preserving their full compositions. Original files remain unchanged.
 
 Carousel slide manifests are in `content/carousels.json`. MeatNG has 5 slides and Mercy Agbeti Wrapped has 15 slides. Their social cards open dedicated pages. Project navigation stores the previous scroll position, and project pages include links to the next two projects.
+
+## Vercel deployment
+
+Import `Adunga16/Portfolio` with the repository root as the Root Directory and `main` as the production branch. The committed `vercel.json` serves the existing `dist` directory without installation or compilation and routes extensionless application URLs to `index.html`. This supports direct links and refreshes on project pages.

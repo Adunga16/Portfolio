@@ -1,0 +1,10 @@
+{
+  "name": "GuardChain",
+  "slug": "guardchain-wallet",
+  "type": "Personal project / Web3 wallet design",
+  "description": "A personal cryptocurrency wallet design project exploring balance visibility, market information, and access to sending, receiving, and buying crypto.",
+  "organization": "Personal project",
+  "contribution": "I designed GuardChain as a personal product project. The case study presents my UI/UX work on a cryptocurrency wallet.",
+  "image": "/assets/uiux/web3-wallet.png",
+  "caseStudyUrl": "https://www.behance.net/gallery/216411521/Web3-Design-A-Case-Study-of-a-Cryptocurrency-Wallet"
+}
